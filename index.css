@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+}
+
+#header {
+    color: whitesmoke;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    padding-top: 250px;
+    padding-bottom: 80px;
+    text-shadow: 2px 2px 4px black;background-image: url(https://tse3.mm.bing.net/th?id=OIP.UM9wPo1k1OlTjuaKsf4gygHaEV&pid=Api&P=0&h=220);
+    background-size: cover;
+}
+
+#t-b {
+    margin-top: 0px;
+}
+
+
+#t-s { 
+    margin-bottom: 0px;
+}
+
+.title {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 100px;
+    font-weight: 400px;
+}
+
+.configs {
+    margin: 50px 60px;
+    font-family: "Agdasima", sans-serif;
+    display : flex;
+    font-size: large;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.title-font {
+    font-family: "Almarai", sans-serif;
+    font-weight: 700;
+}
+
+.acount {
+    box-shadow: 2px 2px 5px black;
+    width: 300px;
+    border-radius: 30px;
+}
+
+.btn {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400px;
+    background: whitesmoke;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#footer {
+    font-size: medium;
+    font-family:"Almarai", sans-serif;
+}
+#info {
+    display: flex;
+    justify-content: space-evenly;
+    font-family:"Almarai", sans-serif ;
+}
