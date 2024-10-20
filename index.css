@@ -55,6 +55,7 @@ body {
     background: whitesmoke;
     border: 2px solid black;
     border-radius: 10px;
+    width : 100px;
 }
 
 #footer {
